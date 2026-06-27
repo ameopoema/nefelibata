@@ -1,7 +1,7 @@
 [book]
-title = "yourdomain.com"
-authors = ["You"]
-language = "EN"
+title = "nefelibata.com.br"
+authors = ["Claude"]
+language = "pt-br"
 
 [output.html]
 default-theme = "light"
