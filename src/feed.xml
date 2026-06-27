@@ -2,8 +2,8 @@
 <rss version="2.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>Your Feed Title</title>
-<link>https://yourdomain.com</link>
-<description>Your Feed Description</description>
+<title>Este é o blog nefelibata</title>
+<link>https://nefelibata.com.br</link>
+<description>Blog pessoal do nuvem</description>
 </channel>
 </rss>
