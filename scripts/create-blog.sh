@@ -19,19 +19,19 @@ cp "$INPUT_FILE" "$OUTPUT_FILE"
 echo "🧹 Removing automatic print scripts..."
 sed -i '/<script>/,/<\/script>/ {
     /window\.print/d
-    /window\.addEventListener/d
-    /window\.setTimeout/d
+    /window.addEventListener/d
+    /window.setTimeout/d
 }' "$OUTPUT_FILE"
 
 # Remove a specific script block with Perl (in case sed doesn't catch everything)
-perl -i -0pe 's/\s*window\.addEventListener('"'"'load'"'"',\s*function\s*\(\)\s*\{\s*window\.setTimeout\(window\.print,\s*100\s*\);\s*\}\s*\);\s*<\/script>//gis' "$OUTPUT_FILE"
+perl -i -0pe 's/<script>\s*window\.addEventListener\('"'"'load'"'"',\s*function\(\s*\)\s*\{\s*window\.setTimeout\(window\.print,\s*100\s*\);\s*\}\s*\);\s*<\/script>//gis' "$OUTPUT_FILE"
 
 # Replace the print script with one that disables window.print
-sed -i 's|</head>|<script>window.print = function() { return false; };</script></head>|' "$OUTPUT_FILE"
+sed -i 's|</body>|<script>window.print = function() { return false; };</script></body>|' "$OUTPUT_FILE"
 
 # Remove the table of contents section from blog.html
 echo "📖 Removing the table of contents page from blog.html..."
-sed -i '/<div id="summary">/,/<\/div>/d' "$OUTPUT_FILE"
-sed -i '/<h1>Table of Contents<\/h1>/,/<\/div>/d' "$OUTPUT_FILE"
+sed -i '/<h1 id="summary">/,/<div style="break-before: page; page-break-before: always;"><\/div>/d' "$OUTPUT_FILE"
+sed -i '/<h1>Summary<\/h1>/,/<div style="break-before: page; page-break-before: always;"><\/div>/d' "$OUTPUT_FILE"
 
 echo "✅ Done! The file has been generated at ${OUTPUT_FILE}"

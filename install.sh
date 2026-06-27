@@ -98,26 +98,25 @@ echo "🔑 Granting execution permissions to .sh scripts..."
 
 # List of expected scripts
 scripts=(
-    "fix-dates.sh"
-    "fix-line-breaks.sh"
-    "update-summary.sh"
-    "template.sh"
-    "rename-files.sh"
-    "create-blog.sh"
-    "generate-feed.sh"
-    "git-push.sh"
+    "scripts/fix-dates.sh"
+    "scripts/fix-line-breaks.sh"
+    "scripts/update-summary.sh"
+    "scripts/template.sh"
+    "scripts/rename-files.sh"
+    "scripts/create-blog.sh"
+    "scripts/generate-feed.sh"
+    "scripts/git-push.sh"
+    "publish.sh"
 )
 
 for script in "${scripts[@]}"; do
     if [ -f "$script" ]; then
-        chmod +x "scripts/$script"
+        chmod +x "$script"
         echo "   ✔ $script"
     else
         echo "   ⚠️ $script not found – skipped."
     fi
 done
-
-chmod +x "publish.sh"
 
 # ----------------------------------------------------------------------
 # Check whether ffprobe is available

@@ -1,0 +1,8 @@
+[book]
+title = "yourdomain.com"
+authors = ["You"]
+language = "EN"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "light"
