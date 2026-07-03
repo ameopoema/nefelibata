@@ -1,0 +1,12 @@
+# 575 Haicais 162 - Haicai de Paradeiro  
+Único leitor  
+Cidade conhecida  
+Paradeiro não  
+
+
+###### *30/09/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

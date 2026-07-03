@@ -1,0 +1,12 @@
+# 575 Haicais 51 - Haicai de Ruptura  
+Olhar atento  
+Em um piscar de olhos  
+Esquecimento  
+
+
+###### *17/04/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

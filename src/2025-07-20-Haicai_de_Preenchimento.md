@@ -1,0 +1,13 @@
+# 575 Haicais 121 - Haicai de Preenchimento  
+> *20/07/2025*  
+Em minha casa  
+Mais vale a presença   
+Do que o nome  
+
+
+###### *20/07/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

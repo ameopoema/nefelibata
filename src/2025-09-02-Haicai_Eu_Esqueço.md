@@ -1,0 +1,12 @@
+# 575 Haicais 153 - Haicai Eu Esqueço  
+Esqueço Tudo  
+Tal Alexandre Pires  
+Menos o amor  
+
+
+###### *02/09/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

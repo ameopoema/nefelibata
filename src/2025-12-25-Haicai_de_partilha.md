@@ -1,0 +1,12 @@
+# 575 Haicais 177 - Haicai de partilha  
+Quanta partilha  
+Essa vida me trará   
+Sem compartilhar  
+
+
+###### *25/12/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

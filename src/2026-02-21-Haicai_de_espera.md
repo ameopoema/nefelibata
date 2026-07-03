@@ -1,0 +1,12 @@
+# 575 Haicais 197 - Haicai de espera  
+Ser ansioso  
+Não consegue esperar  
+Desespera-se  
+
+
+###### *21/02/2026*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

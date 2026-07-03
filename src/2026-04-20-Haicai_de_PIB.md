@@ -1,0 +1,12 @@
+# 575 Haicais 198 - Haicai de PIB  
+Gente tem fome  
+De arroz, feijão e pão  
+Não de PIB não  
+
+
+###### *20/04/2026*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

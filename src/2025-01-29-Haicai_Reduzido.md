@@ -1,0 +1,12 @@
+# 575 Haicais 28 - Haicai Reduzido  
+Nós reduzidos  
+Desatados com corte  
+Não na garganta  
+
+
+###### *29/01/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

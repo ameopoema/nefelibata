@@ -1,0 +1,12 @@
+# 575 Haicais 32 - Haicai de ônibus  
+Sonho com alegria  
+Desperto em solidão  
+E a roda roda  
+
+
+###### *25/02/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

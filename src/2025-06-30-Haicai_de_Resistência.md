@@ -1,0 +1,12 @@
+# 575 Haicais 104 - Haicai de Resistência  
+Parar é fazer  
+Descansar é produzir  
+Seja resistência  
+
+
+###### *30/06/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

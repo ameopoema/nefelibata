@@ -1,0 +1,12 @@
+# 575 Haicais 90 - Haicai aos acrósticos  
+Aos acrósticos  
+Outros limitadores  
+São acrescidos  
+
+
+###### *10/06/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

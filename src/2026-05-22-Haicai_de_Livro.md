@@ -1,0 +1,12 @@
+# 575 Haicais 205 - Haicai de Livro  
+Largo a tela  
+Desse vício me livro  
+Pego um livro  
+
+
+###### *22/05/2026*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

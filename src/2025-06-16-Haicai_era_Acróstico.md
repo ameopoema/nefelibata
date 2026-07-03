@@ -1,0 +1,12 @@
+# 575 Haicais 96 - Haicai era Acróstico  
+Era Acróstico  
+Resplandecente   
+Aos olhos de ti  
+
+
+###### *16/06/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

@@ -1,0 +1,12 @@
+# 575 Haicais 101 - Haicai de Trauma  
+Traumatizado  
+Resolvível com diálogo   
+Não ofertado  
+
+
+###### *27/06/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

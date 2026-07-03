@@ -1,0 +1,12 @@
+# 575 Haicais 165 - Haicai de Faxina  
+A casa arrumo   
+Do limpar e reparar  
+Vem lá faxina  
+
+
+###### *15/10/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

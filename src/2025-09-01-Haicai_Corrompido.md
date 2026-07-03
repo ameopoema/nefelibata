@@ -1,0 +1,12 @@
+# 575 Haicais 152 - Haicai Corrompido  
+Metahumano  
+Memória extendida  
+Me3҉̛͡͝crR̷͘͢͠uP!̴̡͘͡ corrompida  
+
+
+###### *01/09/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

@@ -1,0 +1,12 @@
+# 575 Haicais 128 - Haicai de emergência  
+Emergência   
+Em caso de incêndio   
+Quebre o silêncio  
+
+
+###### *27/07/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

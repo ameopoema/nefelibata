@@ -1,0 +1,12 @@
+# 575 Haicais 77 - Haicai de ficha  
+Bela e simples  
+Expansiva flexível   
+A ficha cai  
+
+
+###### *25/05/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

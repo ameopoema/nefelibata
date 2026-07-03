@@ -1,0 +1,12 @@
+# 575 Haicais 117 - Haicai Latino  
+Memento Mori  
+Premeditatium Malorum  
+et Carpe Diem  
+
+
+###### *16/07/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

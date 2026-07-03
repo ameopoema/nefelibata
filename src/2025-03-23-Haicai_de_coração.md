@@ -1,0 +1,12 @@
+# 575 Haicais 47 - Haicai de coração  
+Altos e baixos  
+Diástoles sístoles  
+Sobe desce e vive  
+
+
+###### *23/03/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

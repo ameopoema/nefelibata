@@ -1,0 +1,12 @@
+# 575 Haicais 116 - Haicai de Pintura  
+Pincel molhado  
+O rolo escorrega  
+Respinga molha  
+
+
+###### *13/07/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

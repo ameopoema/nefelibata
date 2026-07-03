@@ -1,0 +1,12 @@
+# 575 Haicais 192 - Haicai de Desencontro  
+Ele perguntou   
+Como era seu avô   
+Chorou choramos  
+
+
+###### *07/02/2026*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​

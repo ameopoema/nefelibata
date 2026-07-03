@@ -1,0 +1,12 @@
+# 575 Haicais 111 - Haicai de Garra  
+De tanto roer  
+Perdeste vossas garras  
+Mas não tua ginga  
+
+
+###### *07/07/2025*  
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
+&nbsp;<br>​
