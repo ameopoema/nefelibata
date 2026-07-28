@@ -1,7 +1,7 @@
-# 575 Haicais 217  - Haicai Mínimo  
+# 575 Haicais 217  - Haicai Decomposto  
 
-O Essencial  
-Simplifica o problema  
+Quando o poeta  
+Decompõe o problema  
 Acha poema  
 
 
