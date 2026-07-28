@@ -1,5 +1,5 @@
 # Summary  
-- [Haicai Minimo](2026-07-27-Haicai_Minimo.md)  
+- [Haicai Mínimo](2026-07-27-Haicai_Mínimo.md)  
 - [Haicai nubívago](2026-07-07-Haicai_nubívago.md)  
 - [Haicai de caminho](2026-07-02-Haicai_de_caminho.md)  
 - [Haicai dágua](2026-07-01-Haicai_dágua.md)  

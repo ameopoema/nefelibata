@@ -1,11 +1,9 @@
-# 575 Haicais 217  - Haicai Minimo  
+# 575 Haicais 217  - Haicai Mínimo  
 
 O Essencial  
 Simplifica o problema  
 Acha poema  
 
-
-a  
 
 ###### *27/07/2026*  
 &nbsp;<br>​
