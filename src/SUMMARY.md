@@ -1,4 +1,5 @@
 # Summary  
+- [Haicai Celebrado](2026-09-12-Haicai_Celebrado.md)  
 - [Haicai oficializado](2026-08-27-Haicai_oficializado.md)  
 - [Haicai decomposto](2026-07-27-Haicai_decomposto.md)  
 - [Haicai de escritório](2026-07-25-Haicai_de_escritório.md)  
