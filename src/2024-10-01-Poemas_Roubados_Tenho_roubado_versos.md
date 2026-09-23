@@ -15,8 +15,7 @@ Sentindo que o interpretar é irresistível, sentindo como é prazeroso coletar.
 Tenho roubado trechos de jornal,  
 Para que não os esqueça,  
 como minha mãe me ensinou  
-Como se fosse possível salvar os recortes (  
-Mesmo os recortados de nós mesmos)  
+Como se fosse possível salvar os recortes (Mesmo os recortados de nós mesmos)  
 Tenho andado a tentar não me repetir e não repetir os outros  
 Enquanto esgoto as resmas das folhas da vida  
 Tenho as rabiscado com minhas próprias mãos  
