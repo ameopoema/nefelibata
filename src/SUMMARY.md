@@ -1,4 +1,6 @@
 # Summary  
+- [Haicaiu Doente](2026-10-07-Haicaiu_Doente.md)  
+- [Haicai À VoCê](2026-10-07-Haicai_À_VoCê.md)  
 - [Haicai Celebrado](2026-09-12-Haicai_Celebrado.md)  
 - [Haicai oficializado](2026-08-27-Haicai_oficializado.md)  
 - [Haicai decomposto](2026-07-27-Haicai_decomposto.md)  
